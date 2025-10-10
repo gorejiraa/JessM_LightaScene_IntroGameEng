@@ -595,6 +595,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8773397892119592335, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20628,7 +20633,7 @@ PrefabInstance:
     - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
       propertyPath: m_Range
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
