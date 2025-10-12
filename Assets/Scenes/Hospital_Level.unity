@@ -365,6 +365,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1660062692580571620, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 1858105948506703025, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -374,6 +379,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2111462783498328462, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2194023510429392752, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
@@ -545,6 +555,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6064400569054002690, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6959529912100970826, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Range
@@ -590,6 +605,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8548849687125867630, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8680810742614170316, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -598,7 +618,7 @@ PrefabInstance:
     - target: {fileID: 8773397892119592335, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Intensity
-      value: 0
+      value: 0.7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1132,6 +1152,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5997985202249735738, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -1615,6 +1640,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1779547292327976329, guid: 2cf99f19e852481429afd4e69a6d229e,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2757990268128439487, guid: 2cf99f19e852481429afd4e69a6d229e,
         type: 3}
@@ -2293,6 +2323,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4894710527891125894, guid: 2a034bc91c081144ebcd9790cc36b970,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8325750078826911197, guid: 2a034bc91c081144ebcd9790cc36b970,
         type: 3}
       propertyPath: m_Range
@@ -2614,6 +2649,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 599312406}
     m_Modifications:
+    - target: {fileID: 819271268873054056, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 1338571407045051585, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Name
@@ -2703,6 +2743,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564825783470021030, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2841554650692098751, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
@@ -2828,6 +2873,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5833207477306638865, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6959529912100970826, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
@@ -2996,6 +3046,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -3301,6 +3356,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -5435,6 +5495,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hallway (1x1) (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6062,6 +6127,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6510,6 +6580,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7351656446715805409, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6533,6 +6608,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1 Intersection 3 way) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -7633,6 +7713,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8640408361766087853, guid: 39928cf334f74814f8feda4c69d583f0,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8064,6 +8149,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8687,6 +8777,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Range
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2.6
+      objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8886,6 +8986,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1 Intersection 3 way)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -9930,6 +10035,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10527,7 +10637,7 @@ PrefabInstance:
     - target: {fileID: 4722039752391148558, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5477544044491301251, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
@@ -10553,6 +10663,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11496,6 +11611,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5997985202249735738, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -12178,7 +12298,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: a6560a915ef98420e9faacc1c7438823, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 14a037133c304e04e947feb8b75dea48, type: 2}
 --- !u!4 &832575519
 Transform:
   m_ObjectHideFlags: 0
@@ -12382,6 +12502,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hallway (1x1) (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12475,6 +12600,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8640408361766087853, guid: 39928cf334f74814f8feda4c69d583f0,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12795,6 +12925,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12980,6 +13115,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ceiling Light Assembly (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1882859186138314411, guid: 520f1d524bf7af346ab81c1f3c29e6aa,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2297008968537735310, guid: 520f1d524bf7af346ab81c1f3c29e6aa,
         type: 3}
@@ -13560,6 +13700,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -14195,6 +14340,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.6
+      objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14730,6 +14880,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14892,6 +15047,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994235080037771881, guid: 2cf99f19e852481429afd4e69a6d229e,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2691062823881415519, guid: 2cf99f19e852481429afd4e69a6d229e,
         type: 3}
@@ -15417,6 +15577,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5997985202249735738, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -15837,6 +16002,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1) (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17135,6 +17305,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17996,6 +18171,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18361,6 +18541,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7351656446715805409, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18662,6 +18847,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5986633401769999330, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_IsActive
@@ -18746,6 +18936,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7351656446715805409, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19309,6 +19504,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1 Intersection 3 way) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -20122,6 +20322,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5997985202249735738, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
@@ -20914,6 +21119,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4687358240671459312, guid: 601d49283554a374ea0f8ba49c8fe550,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8172440832520012971, guid: 601d49283554a374ea0f8ba49c8fe550,
         type: 3}
       propertyPath: m_Range
@@ -21027,6 +21237,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21345,6 +21560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hallway (1x1 Intersection 3 way) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832018602393522965, guid: 469e6e55d4e8f9743b6950e444f600a9,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 2571999169456918502, guid: 469e6e55d4e8f9743b6950e444f600a9,
         type: 3}
@@ -21962,6 +22182,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -22761,6 +22986,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4894710527891125894, guid: 2a034bc91c081144ebcd9790cc36b970,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.3
+      objectReference: {fileID: 0}
     - target: {fileID: 8325750078826911197, guid: 2a034bc91c081144ebcd9790cc36b970,
         type: 3}
       propertyPath: m_Range
@@ -23159,6 +23389,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3500872974562332395, guid: d061f8a4600076e40a27a26927020183,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6909731521481977283, guid: d061f8a4600076e40a27a26927020183,
         type: 3}
@@ -23768,6 +24003,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Shadows.m_Type
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4345070507035999506, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5997985202249735738, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
@@ -24925,7 +25165,7 @@ PrefabInstance:
     - target: {fileID: 4722039752391148558, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5477544044491301251, guid: 51bd9d5004648ca48b235b88b95b5e19,
         type: 3}
@@ -24951,6 +25191,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25495,6 +25740,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25893,6 +26143,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4051510229624911970, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.02
+      objectReference: {fileID: 0}
     - target: {fileID: 4273747029436065550, guid: d7893ed7f3d54c146b7537a073225cec,
         type: 3}
       propertyPath: m_LocalRotation.w
@@ -25987,6 +26242,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7351656446715805409, guid: d7893ed7f3d54c146b7537a073225cec,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26515,6 +26775,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26685,6 +26950,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4894710527891125894, guid: 2a034bc91c081144ebcd9790cc36b970,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2.4
       objectReference: {fileID: 0}
     - target: {fileID: 8325750078826911197, guid: 2a034bc91c081144ebcd9790cc36b970,
         type: 3}
@@ -28596,6 +28866,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29284,6 +29559,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2111462783498328462, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 2194023510429392752, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_IsActive
@@ -29454,6 +29734,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5833207477306638865, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6959529912100970826, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Range
@@ -29499,10 +29784,25 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8548849687125867630, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8554733565840287641, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8680810742614170316, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8773397892119592335, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29782,6 +30082,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8962908276128596696, guid: 51bd9d5004648ca48b235b88b95b5e19,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 1.8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29816,6 +30121,11 @@ PrefabInstance:
       propertyPath: m_Shadows.m_Type
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1335137437963516272, guid: 588a4f4e4ada74344badd9589c3875c7,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1368580844896771839, guid: 588a4f4e4ada74344badd9589c3875c7,
         type: 3}
       propertyPath: m_IsActive
@@ -29840,6 +30150,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2346444405382342004, guid: 588a4f4e4ada74344badd9589c3875c7,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2419789462069234905, guid: 588a4f4e4ada74344badd9589c3875c7,
         type: 3}
@@ -29901,6 +30216,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5173648662322176274, guid: 588a4f4e4ada74344badd9589c3875c7,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5486315472263901614, guid: 588a4f4e4ada74344badd9589c3875c7,
         type: 3}
       propertyPath: m_IsActive
@@ -29910,6 +30230,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6339143846679991510, guid: 588a4f4e4ada74344badd9589c3875c7,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6942079906161438752, guid: 588a4f4e4ada74344badd9589c3875c7,
         type: 3}
@@ -30357,6 +30682,11 @@ PrefabInstance:
       propertyPath: m_AdditionalLightsShadowResolutionTier
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4687358240671459312, guid: 601d49283554a374ea0f8ba49c8fe550,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2.3
+      objectReference: {fileID: 0}
     - target: {fileID: 8172440832520012971, guid: 601d49283554a374ea0f8ba49c8fe550,
         type: 3}
       propertyPath: m_Range
@@ -30456,15 +30786,35 @@ PrefabInstance:
       propertyPath: m_Name
       value: Operating Room A (3x3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1302775155655043683, guid: 1be1109773b1a3246b394693f91b9aa1,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2200727386476669610, guid: 1be1109773b1a3246b394693f91b9aa1,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3864917175743544995, guid: 1be1109773b1a3246b394693f91b9aa1,
         type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4951763653412723201, guid: 1be1109773b1a3246b394693f91b9aa1,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 7202051773125302977, guid: 1be1109773b1a3246b394693f91b9aa1,
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7951383961619576107, guid: 1be1109773b1a3246b394693f91b9aa1,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8234595626093532914, guid: 1be1109773b1a3246b394693f91b9aa1,
         type: 3}
@@ -30584,6 +30934,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1994235080037771881, guid: 2cf99f19e852481429afd4e69a6d229e,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2691062823881415519, guid: 2cf99f19e852481429afd4e69a6d229e,
         type: 3}
@@ -30812,6 +31167,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4894710527891125894, guid: 2a034bc91c081144ebcd9790cc36b970,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8325750078826911197, guid: 2a034bc91c081144ebcd9790cc36b970,
         type: 3}
@@ -31281,6 +31641,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 166485856}
     m_Modifications:
+    - target: {fileID: 819271268873054056, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1338571407045051585, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Name
@@ -31375,6 +31740,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2564825783470021030, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2841554650692098751, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
@@ -31511,6 +31881,11 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 0.68867916
       objectReference: {fileID: 0}
+    - target: {fileID: 5833207477306638865, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 6064400569054002690, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
       propertyPath: m_Color.b
@@ -31525,6 +31900,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.r
       value: 0.77162683
+      objectReference: {fileID: 0}
+    - target: {fileID: 6064400569054002690, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6959529912100970826, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
@@ -31580,6 +31960,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.r
       value: 0.8010363
+      objectReference: {fileID: 0}
+    - target: {fileID: 8554733565840287641, guid: bad56f7b047c1844b8a98074b74d06eb,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8680810742614170316, guid: bad56f7b047c1844b8a98074b74d06eb,
         type: 3}
