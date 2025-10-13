@@ -179,7 +179,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.42
   smoothness:
     m_OverrideState: 1
     m_Value: 0.8
@@ -700,7 +700,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.07
+    m_Value: 0.3
   xMultiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -746,7 +746,7 @@ MonoBehaviour:
     m_Value: 16
   aperture:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 16.4
   focalLength:
     m_OverrideState: 1
     m_Value: 50
