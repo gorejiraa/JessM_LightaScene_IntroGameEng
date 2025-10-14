@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: eec6985ab4c6ea0408b93553cdf72e6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kaslier
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0dd0128606ca94e46ae6fb934a77769a, type: 3}
+  - {fileID: 12800000, guid: ad193500513fdbe4ca14abaa42735294, type: 3}
+  - {fileID: 12800000, guid: 20f7c21d40bb70840b22c09d16a2dee5, type: 3}
+  - {fileID: 12800000, guid: 1e2e4fd4486e9484698b5df79c78704f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
